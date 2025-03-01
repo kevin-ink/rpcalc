@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Funnel Display', sans-serif;
+}
+
+h1 {
+    margin: 0;
+    margin-top: 10%;
+    padding: 0;
+}
+
+form {
+    height: 100%;
+}
+
+.response {
+    font-size: medium;
+    display: flex;
+    margin-top: 20px;
+    flex-direction: column;
+}
+
+.response p {
+    margin: 0;
+}
+
+.checkbox {
+    padding-left: 20px;
+}
+
+.checkbox span {
+    padding-right: 0px;
+}
