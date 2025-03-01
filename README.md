@@ -1,6 +1,4 @@
 # Simple RP (Riot Points) Calculator
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Reach your target RP for your skins splurge with minimum USD. Want exactly 2934 RP and
+want to know how to reach that amount of RP without overspending due to tier pricing? Then this is the calculator for you!
